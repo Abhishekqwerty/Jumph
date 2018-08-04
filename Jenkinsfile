@@ -1,2 +1,1 @@
-
-        archiveArtifacts artifacts : 'dist/php.zip'
+archiveArtifacts artifacts : 'dist/php.zip'
